@@ -1,5 +1,5 @@
 <h1>Hello World! 👋</h1>
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ayoola-atitebi-a8b274240" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ayoola-atitebi-a8b274240/"> Atitebi Ayoola Emmanuel</a></div>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ayoola-atitebi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ayoola-atitebi/"> Atitebi Ayoola Emmanuel</a></div>
     
 <h1>Welcome To ∆¥ØØL∆'S Profile 😌</h1>
 
@@ -12,7 +12,7 @@
 
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/ayoola-atitebi-a8b274240/"><img src="images/linkedin.png" width="60" /></a>
+<a href="https://www.linkedin.com/in/ayoola-atitebi"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/AtitebiAyoola"><img src="images/twitter.png" width="60" /></a>
 <a href="https://www.instagram.com/ayoolaatitebi/"><img src="images/ig.png" width="70" /></a>
 
