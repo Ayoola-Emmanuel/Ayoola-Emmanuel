@@ -52,6 +52,7 @@ Here are some basic things to know about ∆¥ØØL∆ 😎💻;
 
 #### Tools I Use
 <code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
+<code><img src="images/brackets.png" width="60" title="Brackets" /></code>
 <code><img src="images/pycharm.png" width="60" title="PyCharm" /></code>
 <code><img src="images/github.jpg" width="60" title="GitHub" /></code>
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
