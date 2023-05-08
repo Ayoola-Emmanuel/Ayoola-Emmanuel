@@ -6,7 +6,7 @@
 
 
 ###   **What's my current role in tech?** </h2>
-       { Software Developer | Computer Scientist | Blogger | Content Marketer } 
+       { Software Developer | Computer Scientist | Blogger } 
 
 
 
