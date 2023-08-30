@@ -28,7 +28,7 @@ Here are some basic things to know about ∆¥ØØL∆ 😎💻;
 - 💬 Ask me about anything 😌,
 - 📫 How to reach me: Email: ayoolaemmanuel083@gmail.com, Phone: +2349029138135,
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Writing 📝.
+- ⚡ Fun fact: I'm funny 😂.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
