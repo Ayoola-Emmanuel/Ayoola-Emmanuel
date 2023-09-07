@@ -26,7 +26,7 @@ Here are some basic things to know about ∆¥ØØL∆ 😎💻;
 - 👯 I’m looking for people to collaborate with on projects.
 - 🤔 I’m looking for help with expanding my knowledge of Backend Development,
 - 💬 Ask me about anything 😌,
-- 📫 How to reach me: Email: ayoolaemmanuel083@gmail.com, Phone: +2349029138135,
+- 📫 How to reach me: Email: ayoolatitebi@gmail.com, Phone: +2349029138135,
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I'm funny 😂.
 
