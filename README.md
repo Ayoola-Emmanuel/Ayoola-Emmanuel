@@ -40,13 +40,13 @@ Here are some basic things to know about ∆¥ØØL∆ 😎💻;
 
 #### Frameworks/Libraries I Use
 <code><img src="images/B.png" width="70" title="Bootstrap" /></code>
+<code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
  <code><img src="images/jQuery.png" width="65" title="jQuery" /></code>
   <code><img src="images/react.png" width="80" title="React" /></code>
   <code><img src="images/json.png" width="70" title="JSON" /></code>
    <code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
     <code><img src="images/express.png" width="65" title="Express" /></code> 
      <code><img src="images/api.jpg" width="70" title="API" /></code> 
-<!-- <code><img src="images/tailwind.png" width="70" title="Tailwind" /></code> -->
 <!-- <code><img src="images/Bulma.png" width="110" title="Bulma" /></code> -->
 <!-- <code><img src="images/flutter.png" width="65" title="Flutter" /></code> -->
 
@@ -57,7 +57,7 @@ Here are some basic things to know about ∆¥ØØL∆ 😎💻;
 <code><img src="images/github.jpg" width="60" title="GitHub" /></code>
 <code><img src="images/git.jpg" width="60" title="Git" /></code>
 <code><img src="images/power.png" width="80" title="Powershell" /></code>
-<code><img src="images/command.png" width="70" title="Commandprompt" /></code>
+<code><img src="images/command.png" width="70" title="Command Prompt" /></code>
 <code><img src="images/R.png" width="50" title="NodeJS" /></code> 
 <code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
 <!-- <code><img src="images/x-code.png" width="60" title="Xcode" /></code> -->
