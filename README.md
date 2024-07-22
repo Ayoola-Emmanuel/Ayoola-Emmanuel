@@ -14,20 +14,20 @@
 #### Connect with me 
 <a href="https://www.linkedin.com/in/ayoola-atitebi"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/AtitebiAyoola"><img src="images/twitter.png" width="60" /></a>
-<a href="https://www.instagram.com/ayoolaatitebi/"><img src="images/ig.png" width="70" /></a>
+<a href="https://www.instagram.com/ayoolaatitebi/"><img src="images/ig.png" width="60" /></a>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
 Here are some basic things to know about ∆¥ØØL∆;
 
-- 🔭 I’m working on honing my Backend Dev skills,
-- 🌱 I’m currently exploring Fullstack Web Development,
-- 👯 I’m looking for people to collaborate with on projects.
-- 💬 Ask me about anything 😌,
-- 📫 How to reach me: Email: ayoolatitebi@gmail.com,
-- 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I'm a funny tech bro 😂.
+- 🔭 I’m working on honing my Backend Dev skills
+- 🌱 I’m currently exploring Fullstack Web Development
+- 👯 I’m looking for people to collaborate with on projects
+- 💬 Ask me about anything 😌
+- 📫 How to reach me: Email: ayoolatitebi@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I'm a funny tech bro 😂
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
