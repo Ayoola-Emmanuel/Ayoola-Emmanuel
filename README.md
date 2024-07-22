@@ -9,7 +9,7 @@
        { Software Developer | Computer Scientist | Blogger } 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE37&vCenter=true&width=435&lines=Code+Enthusiast+;Pursuing+the+Path+of+Software+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Software+Engineer+;Code+Enthusiast;Learning+and+Unlearning+💡)](https://git.io/typing-svg)
 
 #### Connect with me 
 <a href="https://www.linkedin.com/in/ayoola-atitebi"><img src="images/linkedin.png" width="60" /></a>
