@@ -1,5 +1,5 @@
 <h1>Hello World! 👋</h1>
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ayoola-atitebi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ayoola-atitebi/"> Atitebi Ayoola Emmanuel</a></div>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ayoola-atitebi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/atitebi-ayoola/"> Atitebi Ayoola Emmanuel</a></div>
     
 <h1>Welcome To ∆¥ØØL∆'S Profile 😌</h1>
 
@@ -12,8 +12,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Software+Developer+💻+;Tech+Enthusiast;Learning+and+Unlearning+💡)](https://git.io/typing-svg)
 
 #### Connect with me 
-<a href="https://www.linkedin.com/in/ayoola-atitebi"><img src="images/linkedin.png" width="60" /></a>
-<a href="https://twitter.com/AtitebiAyoola"><img src="images/twitter.png" width="60" /></a>
+<a href="https://www.linkedin.com/in/atitebi-ayoola"><img src="images/linkedin.png" width="60" /></a>
+<a href="https://twitter.com/AyoolaAtitebi"><img src="images/twitter.png" width="60" /></a>
 <a href="https://www.instagram.com/ayoolaatitebi/"><img src="images/ig.png" width="60" /></a>
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
