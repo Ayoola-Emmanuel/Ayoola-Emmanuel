@@ -9,13 +9,11 @@ My background is in tissue engineering and experimental immunology, My wet lab e
 ### Tech Stack
 
 ```
-Languages:      Python · R · SQL (PostgreSQL) · bash
-Bioinformatics: Scanpy · AnnData · Squidpy · cell2location · LIANA+ · CellChat ·
-                CellTypist · scrublet · Seurat · Harmony · harmonypy · DESeq2 ·
-                PyDESeq2 · Slingshot · Tradeseq
-ML & Analysis:  scikit-learn · pandas · ggplot2 · patchwork · lifelines
-Databases:      UniProt · GEO · SRA · ExoCarta · Vesiclepedia
-Tools:          Git · Snakemake · Jupyter · Docker · FlowJo · GraphPad
+Languages:      Python · bash
+Bioinformatics: FastQC · MultiQC · SPAdes · QUAST · Snippy · AMRFinderPlus · MLST · IQ-TREE
+Analysis:       pandas · matplotlib
+Visualization:  Microreact · Pathogenwatch
+Workflow:       Git · Conda
 ```
 
 ### Background
