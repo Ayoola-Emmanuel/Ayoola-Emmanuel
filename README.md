@@ -10,7 +10,8 @@ My background is in tissue engineering and experimental immunology, My wet lab e
 
 ```
 Languages:      Python · bash
-Bioinformatics: FastQC · MultiQC · SPAdes · QUAST · Snippy · AMRFinderPlus · MLST · IQ-TREE
+Bioinformatics: FastQC · MultiQC · SPAdes · QUAST · Snippy · MLST ·
+                AMRFinderPlus · IQ-TREE
 Analysis:       pandas · matplotlib
 Visualization:  Microreact · Pathogenwatch
 Workflow:       Git · Conda
