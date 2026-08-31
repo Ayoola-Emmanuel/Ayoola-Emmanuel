@@ -1,8 +1,10 @@
-## Hi, I'm Tai! 👋🏾
+## Hi, I'm Ayoola! 👋🏾
 
-My background is in tissue engineering and experimental immunology, My wet lab experiences pushed me toward computation because the biological systems I studied demanded more scalable and rigorous analytical tools. I now build computational pipelines for genomics analysis and biomarker discovery, focusing native and diseased immune biology at the molecular, cellular, and tissue scale. Because I’ve worked extensively at the bench, I approach biological data with an experimental understanding of what signals are mechanistically meaningful.
+My background is in Computer Science, with experience in software development and data-driven projects. My interest in using computation to solve problems in biology and healthcare led me to bioinformatics, where I’m developing practical skills in genomic data analysis and computational biology.
 
-👩🏾‍💻 JUst finished my project investigating senescent and dysfunctional signatures in myeloid & lymphoid lineages using a multi-omics approach (scRNA-seq & spatial transcriptomics). 
+I have hands-on experience with bacterial whole-genome sequencing workflows, including sequencing data quality control, genome assembly, assembly assessment, antimicrobial resistance (AMR) detection, MLST, plasmid analysis, and phylogenetics. I’m particularly interested in how computational methods can turn biological data into meaningful insights.
+
+👨🏾‍💻 Currently building hands-on bioinformatics projects focused on bacterial genomics, AMR surveillance, comparative genomics, and reproducible analysis workflows.
 
 ---
 
@@ -19,8 +21,4 @@ Workflow:       Git · Conda
 
 ### Background
 
-- 🎓 Ph.D., Biomedical Engineering
-- 🎓 B.S., Chemical Engineering, Pharmaceutical Track (minor: Cell & Molecular Biology)
-- 🏆 NSF Graduate Research Fellow (GRFP)
-- 🧫 Industry experience: Lyric Bio · Astellas · Rubius Therapeutics
-- 📍 Bay Area, CA
+- 🎓 B.S., Computer Science
